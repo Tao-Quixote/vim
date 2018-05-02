@@ -172,8 +172,7 @@ map <m-m> toggleMuteTab
 
 其对应关系如下：
 
-`<``m``-``m``>``toggleMuteTab`</br>
-`<``Command``-``m``>``切换当前 tab 是否静音`
+`<m-m> toggleMuteTab` ====> `<Command-m> 切换当前 tab 是否静音`
 
 ## Mmmm...
 
