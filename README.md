@@ -12,6 +12,7 @@
 * [vim-plug](./documents/vim-plug.md)
 * [vim-startify](./documents/vim-startify.md)
 * [vim-javascript](./documents/vim-javascript.md)
+* [NERDTree](./documents/nerdtree.md)
 
 # Author Info 🦉
 
