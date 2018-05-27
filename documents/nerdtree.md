@@ -126,6 +126,8 @@ A.......缩放 NERDTree 窗口................................|NERDTree-A|
 ?.......切换帮助信息的打开/关闭状态..........................|NERDTree-?|
 ```
 
+更多信息请查询 [NERDTree - 2.3 NERD Tree mappings](https://github.com/scrooloose/nerdtree/blob/master/doc/NERDTree.txt)。
+
 ## Mmmm...
 
 基本命令及设置就讲这么多，更高级的用法可以查看 [NERDTree.txt](https://github.com/scrooloose/nerdtree/blob/master/doc/NERDTree.txt)。
