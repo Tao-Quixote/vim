@@ -8,11 +8,11 @@
 
 ## 文章列表
 
-* [vimium](./documents/vimium.md)
-* [vim-plug](./documents/vim-plug.md)
-* [vim-startify](./documents/vim-startify.md)
-* [vim-javascript](./documents/vim-javascript.md)
-* [NERDTree](./documents/nerdtree.md)
+* [vimium - Chrome 浏览器插件](./documents/vimium.md)
+* [vim-plug - Vim 插件管理](./documents/vim-plug.md)
+* [vim-startify - Vim 启动页面插件](./documents/vim-startify.md)
+* [vim-javascript - Vim JavaScript 插件](./documents/vim-javascript.md)
+* [NERDTree - Vim 目录树插件](./documents/nerdtree.md)
 
 # Author Info 🦉
 
