@@ -13,6 +13,7 @@
 * [vim-startify - Vim 启动页面插件](./documents/vim-startify.md)
 * [vim-javascript - Vim JavaScript 插件](./documents/vim-javascript.md)
 * [NERDTree - Vim 目录树插件](./documents/nerdtree.md)
+* [nerdtree-git-plugin - Vim 目录树 git 状态插件](./documents/nerdtree-git-plugin.md)
 
 # Author Info 🦉
 
