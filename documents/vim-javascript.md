@@ -97,8 +97,6 @@ map <leader>l :exec &conceallevel ? "set conceallevel=0" : "set conceallevel=1"<
 let mapleader=','
 ```
 
-## 缩进
-
 ## Author Info 🐴
 
 * [GitHub](https://github.com/Tao-Quixote)
