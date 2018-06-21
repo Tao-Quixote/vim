@@ -18,6 +18,11 @@
 * [nerdtree-git-plugin - Vim 目录树 git 状态插件](./documents/nerdtree-git-plugin.md)
 * [vim-gitgutter - 文件 git diff 状态提示插件](./documents/vim-gitgutter.md)
 
+## 推荐文章 & repo
+
+* [vim-galore - 原版](https://github.com/mhinz/vim-galore)
+* [vim-galore - 中文版](https://github.com/wsdjeg/vim-galore-zh_cn)
+
 # Author Info 🦉
 
 * [GitHub](https://github.com/Tao-Quixote)
