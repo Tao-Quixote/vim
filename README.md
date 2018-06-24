@@ -17,6 +17,7 @@
 * [NERDTree - Vim 目录树插件](./documents/nerdtree.md)
 * [nerdtree-git-plugin - Vim 目录树 git 状态插件](./documents/nerdtree-git-plugin.md)
 * [vim-gitgutter - 文件 git diff 状态提示插件](./documents/vim-gitgutter.md)
+* [vim-airline - 文件状态提示](./documents/vim-airline.md)
 
 ## .vimrc
 
