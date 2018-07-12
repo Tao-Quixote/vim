@@ -19,6 +19,7 @@
 * [vim-gitgutter - 文件 git diff 状态提示插件](./documents/vim-gitgutter.md)
 * [vim-airline - 文件状态提示](./documents/vim-airline.md)
 * [fugitive.vim - Git 封装](./documents/fugitive.vim.md)
+* [vim-markdown - Markdown 插件](./documents/vim-markdown.md)
 
 ## .vimrc
 
