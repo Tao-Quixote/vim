@@ -21,6 +21,7 @@
 * [vim-airline - 文件状态提示](./documents/vim-airline.md)
 * [fugitive.vim - Git 封装](./documents/fugitive.vim.md)
 * [vim-markdown - Markdown 插件](./documents/vim-markdown.md)
+* [vim-surround - 包裹符号处理插件](./documents/vim-surround.md)
 
 ## .vimrc
 
