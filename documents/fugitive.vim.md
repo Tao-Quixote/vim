@@ -38,6 +38,22 @@
 
 对 `git delete` 的封装，将当前文件从文件管理中移除并删除文件。
 
+### Gfetch
+
+对 `git fetch` 的封装。
+
+### Gmerge
+
+对 `git merge` 的封装。
+
+### Gpush
+
+对 `git push` 的封装。
+
+### Gpull
+
+对 `git pull` 的封装，相当于 `git fetch` + `git merge`。
+
 ### Gbrowse
 
 对 `git instaweb` 的封装，但是 fugitive.vim 插件自身不能完成该功能，需要 [vim-rhubarb](https://github.com/tpope/vim-rhubarb) 插件的配合。
