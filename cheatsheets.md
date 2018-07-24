@@ -18,6 +18,16 @@
 * `v` - 进入 字符可视模式（-- VISUAL --）
 * `V` - 进入 行可视模式（-- VISUAL LINE --）
 * `<C-v>` - 进入 列块可视模式（-- VISUAL BLOCK --），用于表格操作会比较方便
+  * `<C-v>` 进入的 visual block 模式支持列操作，可以通过此模式进行批量的缩进、注释、append 等操作:
+
+```viml
+" example
+<Ctrl-v>  " Ctrl+v
+10j       " 向下移动选中10行
+<Shift-i> " 进入插入模式
+//        " 插入 // - JavaScript 注释
+<esc>     " 返回普通模式
+```
 
 ## 查找
 
