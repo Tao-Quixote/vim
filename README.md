@@ -22,6 +22,7 @@
 * [fugitive.vim - Git 封装](./documents/fugitive.vim.md)
 * [vim-markdown - Markdown 插件](./documents/vim-markdown.md)
 * [vim-surround - 包裹符号处理插件](./documents/vim-surround.md)
+* [vim-textobj-entire - 新增文本对象（text object）](./documents/vim-textobj-entire.md)
 
 ## .vimrc
 
