@@ -24,6 +24,7 @@
 * [vim-surround - 包裹符号处理插件](./documents/vim-surround.md)
 * [vim-textobj-entire - 新增文本对象（text object）](./documents/vim-textobj-entire.md)
 * [indentline - 行缩进提示](./documents/indentline.md)
+* [vim-commentary - 注释](./documents/vim-commentary.md)
 
 ## .vimrc
 
