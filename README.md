@@ -26,6 +26,10 @@
 * [indentline - 行缩进提示](./documents/indentline.md)
 * [vim-commentary - 注释](./documents/vim-commentary.md)
 
+## cheatsheet
+
+* [cheatsheets](./cheatsheets.md)
+
 ## .vimrc
 
 `.vimrc` 文件中保存了作者自己的 `Vim` 配置信息。
