@@ -26,7 +26,11 @@
   * [vim-textobj-entire - 新增文本对象（text object）](./plugin/vim-textobj-entire.md)
   * [indentline - 行缩进提示](./plugin/indentline.md)
   * [vim-commentary - 注释](./plugin/vim-commentary.md)
+  * [ctrlp - 模糊匹配文件](./plugin/ctrlp.md)
+  * [tabular - line up](./plugin/tabular.md)
+  * [image.vim - 图片预览](./plugin/image.vim.md)
 * [cheatsheets](./cheatsheets.md)
+* [help](./help.md)
 
 ## .vimrc
 
