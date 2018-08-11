@@ -24,6 +24,7 @@
 
 * `:h mouse` - 查看鼠标相关的文档
 * `:h window-resize` - 改变窗口大小文档
+* `:h Ctrl-w` - 查看窗口操作相关的文档
 
 ## 文本对象
 
@@ -32,6 +33,13 @@
 ## motion
 
 * `:h motion.txt` - 移动相关的文档
+
+## netrw
+
+* `:h netrw-%` - 创建新文件文档
+* `:h netrw-d` - 创建新目录文档
+* `:h netrw-rename` - 重命名文档，`R` 命令
+* `:h netrw-del` - 删除文件文档, `D` 命令
 
 ## Author Info 🐋
 
