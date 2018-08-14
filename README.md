@@ -31,6 +31,7 @@
   * [image.vim - 图片预览](./plugin/image.vim.md)
 * [cheatsheets](./cheatsheets.md)
 * [help](./help.md)
+* [file](./file.md)
 
 ## .vimrc
 
