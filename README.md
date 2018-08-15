@@ -32,6 +32,7 @@
 * [cheatsheets](./cheatsheets.md)
 * [help](./help.md)
 * [file](./file.md)
+* [command-cheatsheets](./command-cheatsheets.md)
 
 ## .vimrc
 
