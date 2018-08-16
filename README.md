@@ -33,6 +33,7 @@
 * [help](./help.md)
 * [file](./file.md)
 * [command-cheatsheets](./command-cheatsheets.md)
+* [motion - 移动](./mition.md)
 
 ## .vimrc
 
