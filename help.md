@@ -41,6 +41,10 @@
 * `:h netrw-rename` - 重命名文档，`R` 命令
 * `:h netrw-del` - 删除文件文档, `D` 命令
 
+## matchit
+
+* `:h matchit-install` - 关键词匹配插件 matchit 帮助文档
+
 ## Author Info 🐋
 
 * [Github](https://github.com/Tao-Quixote)
