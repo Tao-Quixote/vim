@@ -34,6 +34,7 @@
 * [file](./file.md)
 * [command-cheatsheets](./command-cheatsheets.md)
 * [motion - 移动](./mition.md)
+* [register - 寄存器](./register.md)
 
 ## .vimrc
 
