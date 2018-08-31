@@ -35,6 +35,7 @@
 * [command-cheatsheets](./command-cheatsheets.md)
 * [motion - 移动](./mition.md)
 * [register - 寄存器](./register.md)
+* [macro - 宏](./macro.md)
 
 ## .vimrc
 
