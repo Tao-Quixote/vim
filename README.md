@@ -37,6 +37,7 @@
 * [register - 寄存器](./register.md)
 * [macro - 宏](./macro.md)
 * [jump-between-files - 在文件之间跳转](./jump-between-files.md)
+* [window-cheatsheets](./window-cheatsheets.md)
 
 ## .vimrc
 
