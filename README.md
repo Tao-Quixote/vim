@@ -38,6 +38,7 @@
 * [macro - 宏](./macro.md)
 * [jump-between-files - 在文件之间跳转](./jump-between-files.md)
 * [window-cheatsheets](./window-cheatsheets.md)
+* [window-cheatsheets-for-scrolling - 滚动](./command-cheatsheets-scrolling.md)
 
 ## .vimrc
 
