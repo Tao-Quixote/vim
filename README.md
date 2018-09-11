@@ -39,6 +39,7 @@
 * [jump-between-files - 在文件之间跳转](./jump-between-files.md)
 * [window-cheatsheets](./window-cheatsheets.md)
 * [window-cheatsheets-for-scrolling - 滚动](./command-cheatsheets-scrolling.md)
+* [pattern - 匹配模式](./pattern.md)
 * [issues](./issues.md)
 
 ## .vimrc
