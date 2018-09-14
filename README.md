@@ -29,6 +29,7 @@
   * [ctrlp - 模糊匹配文件](./plugin/ctrlp.md)
   * [tabular - line up](./plugin/tabular.md)
   * [image.vim - 图片预览](./plugin/image.vim.md)
+  * [vinegar.vim - netrw 增强](./plugin/vinegar.md)
 * [cheatsheets](./cheatsheets.md)
 * [help](./help.md)
 * [file](./file.md)
