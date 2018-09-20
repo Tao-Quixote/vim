@@ -19,6 +19,7 @@
 * `:h 'wildmode'` - 自动补全行为文档
 * `:h cmdwin` - 查看命令行窗口文档
 * `:h cmdline-special` - 查看命令行中的特殊符号所代表含义的文档
+* `:h s_c` - 查看 substitute 命令 `c` 标志位的帮助文档
 
 ## 窗口
 
@@ -44,6 +45,10 @@
 ## matchit
 
 * `:h matchit-install` - 关键词匹配插件 matchit 帮助文档
+
+## modes
+
+* `:h map-modes` - 模式影射帮助文档，主要关于按键影射
 
 ## Author Info 🐋
 
