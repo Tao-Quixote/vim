@@ -34,6 +34,11 @@
 ## motion
 
 * `:h motion.txt` - 移动相关的文档
+* `:h navigation` - 同 `:h motion.txt`
+
+## operator
+
+* `:h operator` - 查看操作符帮助文档
 
 ## netrw
 
