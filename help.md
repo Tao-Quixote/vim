@@ -40,6 +40,13 @@
 
 * `:h operator` - 查看操作符帮助文档
 
+## substitute
+
+* `:h sub-replace-special` - subtitute 命令中替换域部分的特殊替换字符帮助文档
+* `:h :s_c` - 手动确认是否替换不同操作符帮助文档
+* `:h :s_flags` - 替换标志位帮助文档
+* `:h :&` - 重复上次 substitute 命令 `:&` 帮助文档
+
 ## netrw
 
 * `:h netrw-%` - 创建新文件文档
