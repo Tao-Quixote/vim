@@ -41,6 +41,7 @@
 * [window-cheatsheets](./window-cheatsheets.md)
 * [window-cheatsheets-for-scrolling - 滚动](./command-cheatsheets-scrolling.md)
 * [pattern - 匹配模式](./pattern.md)
+* [substitute - 替换](./substitute.md)
 * [issues](./issues.md)
 
 ## .vimrc
