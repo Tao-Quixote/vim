@@ -44,6 +44,7 @@
 * [pattern - 匹配模式](./pattern.md)
 * [substitute - 替换](./substitute.md)
 * [map - 按键映射](./map.md)
+* [undo - 撤销操作](./undo.md)
 * [issues](./issues.md)
 
 ## .vimrc
