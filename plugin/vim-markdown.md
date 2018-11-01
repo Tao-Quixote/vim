@@ -126,6 +126,7 @@ let g:vim_markdown_list_item_indent = 2
 ## 快捷键
 
 * `gx`: 在浏览器中打开光标所在处的链接
+* `ge`: 在 Vim 中打开光标下的链接指向的文件。主要用于打开使用相对位置标识的 markdown 文件
 * `]]`: 跳转到下一个 header
 * `[[`: 跳转到之前的 header，与 `]c` 相反
 * `][`: 跳转到下一个兄弟 header

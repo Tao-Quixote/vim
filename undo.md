@@ -61,6 +61,10 @@ baz(3)   quux(4)
 
 可以通过 `:help new-undo-branches` 或者 `:help undo-tree` 这两条命令查看更多帮助信息。
 
+## 其他
+
+对于变更历史管理，可以使用插件 [undotree](./plugin/undotree.md) 进行可视化的管理。
+
 ## 参考
 
 * [undotree](https://github.com/mbbill/undotree#description)
