@@ -30,6 +30,7 @@
   * [tabular - line up](./plugin/tabular.md)
   * [image.vim - 图片预览](./plugin/image.vim.md)
   * [vinegar.vim - netrw 增强](./plugin/vinegar.md)
+  * [undotree - 内容变更历史可视化管理](./plugin/undotree.md)
 * [cheatsheets](./cheatsheets.md)
 * [help](./help.md)
 * [file](./file.md)
