@@ -46,6 +46,7 @@
 * [substitute - 替换](./substitute.md)
 * [map - 按键映射](./map.md)
 * [undo - 撤销操作](./undo.md)
+* [snapshot - Vim 操作快照](./view_session.md)
 * [issues](./issues.md)
 
 ## .vimrc
