@@ -77,6 +77,15 @@
 ## 变更历史 - changelist
 
 * `:h changelist` - 内容变更历史列表相关帮助文档
+* `:h undo.txt` - 撤销相关帮助文档
+
+## 宏
+
+* `:h recording` - 宏录制帮助文档
+
+## 折叠
+
+* `:h fold.txt` - 折叠帮助文档
 
 ## Author Info 🐋
 
