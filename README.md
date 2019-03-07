@@ -15,6 +15,7 @@
   * [vim-plug - Vim 插件管理](./plugin/vim-plug.md)
   * [vim-startify - Vim 启动页面插件](./plugin/vim-startify.md)
   * [vim-javascript - Vim JavaScript 插件](./plugin/vim-javascript.md)
+  * [vim-jsx - Vim JSX 语法高亮插件](./plugin/vim-jsx.md)
   * [NERDTree - Vim 目录树插件](./plugin/nerdtree.md)
   * [nerdtree-git-plugin - Vim 目录树 git 状态插件](./plugin/nerdtree-git-plugin.md)
   * [vim-gitgutter - 文件 git diff 状态提示插件](./plugin/vim-gitgutter.md)
